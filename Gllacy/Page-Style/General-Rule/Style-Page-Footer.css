@@ -1,0 +1,85 @@
+footer{
+    width:1150px;
+    display: flex;
+    flex-direction: row;
+    margin: 50px auto 0;
+}
+
+.footer-section-1{
+    display: flex;
+    flex-direction: row;
+    margin-right: auto;
+}
+
+.footer-section-1-img{
+    margin:0 5px;
+    filter:opacity(0.3);
+}
+
+.footer-section-1-img:hover{
+    filter:opacity(1);
+}
+
+.footer-section-1-img:active{
+    filter:opacity(0.8);
+}
+
+.footer-section-2{
+    color: white;
+    display: flex;
+    flex-direction: row;
+}
+
+.footer-section-2-item-menu-1{
+    display: flex;
+    flex-direction: column;
+}
+
+.footer-section-2-item-menu-2 {
+    display: flex;
+    flex-direction:column;
+}
+
+.footer-section-2-item-menu-item{
+    margin: 5px 40px;
+}
+
+.footer-section-2-item-menu-item-text:hover{
+    color: rgba(255,255,255,0.7)
+}
+
+.footer-section-2-item-menu-item-text:active{
+    color: rgba(255,255,255,0.3)
+}
+
+.footer-section-2-item-menu-item-text-unique{
+
+}
+
+.footer-section-2-item-menu-item-text{
+
+}
+
+.footer-section-3{
+    margin-left: auto;
+}
+
+.footer-section-3-heading{
+    font-family: RobotoBold  ;
+}
+
+.footer-section-3-heading:hover{
+    color:#ffbc9e;
+}
+
+.footer-section-3-heading:active{
+    color:rgba(255, 188, 158, 0.4);
+}
+
+.footer-section-3-text{
+    font-size: 12px;
+    line-height: 18px;
+    font-family: Roboto
+;
+    color: white;
+}

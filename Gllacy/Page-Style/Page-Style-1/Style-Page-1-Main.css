@@ -1,0 +1,258 @@
+main{
+    width:1200px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+
+.main-container-1{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+    padding: 10px 25px 0;
+}
+
+.main-container-1-two-part {
+    width: 520px;
+    height: 180px;
+    padding: 20px 30px 30px;
+    color: white;
+}
+
+.main-container-1-two-part-1{
+    margin-right: auto;
+    background-image: url('../../Img/Page-1/bg-berry-1.png');
+    background-repeat: no-repeat;
+}
+
+.main-container-1-two-part-2{
+    background-image: url('../../Img/Page-1/bg-berry-2.png');
+    background-repeat: no-repeat;
+}
+
+.main-container-1-heading{
+    font-size: 35px;
+    line-height: 41px;
+    font-family: RobotoBold  ;
+    margin-bottom: 15px;
+    display: block;
+}
+
+.main-container-1-text{
+    font-size: 18px;
+    line-height: 22px;
+    font-family: RobotoBold  ;
+    margin-bottom: 45px;
+}
+
+.main-container-1-button{
+    width: 200px;
+    height: 48px;
+    background-color: #ec573b;
+    border-radius:24px;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: RobotoBold  ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+}
+
+.main-container-1-button:hover{
+    background-color: #ee7561;
+}
+
+.main-container-1-button:active{
+    background-color: #da5037;
+}
+
+.main-container-2{
+    display: flex;
+    flex-direction: row;
+    width: 1200px;
+}
+
+.main-container-2-big-img{
+    position: relative;
+    color:white;
+    margin: 60px 20px 0;
+}
+
+.main-container-2-img-1{
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+
+.main-container-2-heading{
+    font-size: 45px;
+    line-height: 45px;
+    font-family: RobotoBold  ;
+    position: absolute;
+    top: 210px;
+    left: 0;
+}
+
+.main-container-2-text{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 22px;
+    font-family: RobotoMedium  ;
+    display: block;
+    z-index: 10;
+    position: absolute;
+}
+
+.main-container-2-text:hover{
+    color: #ec573b;
+}
+
+.main-container-3{
+    margin: 180px auto 0;
+    width: 1150px;
+    height: 305px;
+    background-image: url('../../Img/Page-1/bg-middle.png');
+    background-repeat: no-repeat;
+}
+
+.main-container-3-heading{
+    font-size: 24px;
+    line-height: 30px;
+    font-family: RobotoMedium  ;
+    margin-top: 30px;
+    margin-left: 15px;
+    display: block;
+}
+
+.main-container-3-container{
+    display: flex;
+    flex-direction: row;
+    margin: 0 20px;
+}
+
+.main-container-3-container-container-1{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container-3-container-container-2{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container-3-container-item{
+    display: flex;
+    flex-direction: row;
+    width: 550px;
+    margin-top: 20px;
+}
+
+.main-container-3-container-item-img{
+    position: relative;
+    top:-20px;
+    margin-right: 5px;
+}
+
+.main-container-3-container-item-text{
+    font-size: 16px;
+    line-height: 22px;
+    font-family: Roboto  ;
+}
+
+.main-container-4{
+    display: flex;
+    flex-direction: row;
+    margin: 40px auto 0;
+}
+
+.main-container-4-item-1{
+    background-image: url('../../Img/Page-1/berry.png');
+    width: 560px;
+    height: 220px;
+    margin-right: 20px;
+}
+
+.main-container-4-item-1-text{
+    font-size: 16px;
+    line-height: 22px;
+    font-family: RobotoMedium  ;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    margin-left: 20px;
+}
+
+.main-container-4-item-1-heading{
+    font-size: 24px;
+    line-height: 30px;
+    margin-left: 20px;
+    display: block;
+    text-decoration: underline;
+    font-family: RobotoBold  ;
+}
+
+.main-container-4-item-2{
+    background-image: url('../../Img/Page-1/candy-bg.png');
+    width: 560px;
+    height: 220px;
+}
+
+.main-container-4-item-2-pre{
+    width: 528px;
+    height: 188px;
+    background-color: #f8f7f4;
+    position: relative;
+    border-radius: 10px;
+    top: 6px;
+    left: 6px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+
+.main-container-4-item-2-text{
+    font-size: 16px;
+    line-height: 22px;
+    font-family: Roboto  ;
+}
+
+.main-container-4-item-2-pre-sub{
+    display: flex;
+    flex-direction: row;
+    margin-top:40px ;
+}
+
+.main-container-4-item-2-window>input{
+    padding-left: 10px;
+    width: 360px;
+    height: 40px;
+}
+
+.main-container-4-item-2-window>input:hover {
+    border:2px solid #c7c6c5;
+}
+
+.main-container-4-item-2-button{
+    width: 130px;
+    height: 43px;
+    background-color: #ec573b;
+    border-radius:24px;
+    font-size: 18px;
+    line-height: 24px;
+    font-family: RobotoBold  ;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: white;
+    margin-left: 10px;
+}
+
+.main-container-4-item-2-button:hover{
+    background-color: #ee7561;
+}
+
+.main-container-4-item-2-button:active{
+    background-color: #da5037;
+}

@@ -1,0 +1,201 @@
+header{
+    width:1150px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    padding: 10px 25px 0;
+}
+
+.header-page-1{
+    display: flex;
+    flex-direction: row;
+}
+
+.header-page-1-1{
+    display: flex;
+    flex-direction: row;
+}
+
+.header-page-1-1-container{
+    margin: 20px 15px 0;
+}
+
+.header-page-1-1-container-logo{
+    margin-top: 0;
+}
+
+.header-page-1-1-link{
+    color: white;
+    font-size: 16px;
+    line-height: 18px;
+    font-family: RobotoBold  ;
+    padding: 3px 10px;
+    border-bottom:1px solid  rgba(255,255,255,0.2) ;
+}
+
+.header-page-1-1-link:hover{
+    background-color: white;
+    border-radius: 16px;
+    color: black;
+}
+
+.header-page-1-1-link:active{
+    background-color: white;
+    border-radius: 16px;
+    color: black;
+    border-top: 2px solid black;
+}
+
+.header-page-1-1-link-current{
+    background-color: #d07058;
+    border-radius: 16px;
+}
+
+.header-page-1-2{
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+}
+
+.header-page-1-2-list{
+    display: flex;
+    flex-direction: row;
+    color: white;
+}
+
+.header-page-1-2-list-item{
+    height: 32px;
+    background-color: rgba(248, 247, 244 ,0.2);
+    border-radius: 16px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 5px 0;
+}
+
+.header-page-1-2-list-item-1{
+    width: 32px;
+}
+
+.header-page-1-2-list-item-2{
+    width: 92px;
+    position: relative;
+}
+
+.header-page-1-2-list-item-3{
+    position: relative;
+    width: 117px;
+}
+
+.header-page-1-2-list-link{
+    position: relative;
+    display: flex;
+    flex-direction: row;
+}
+
+.header-page-1-2-list-text{
+    font-family: RobotoMedium  ;
+    font-size: 14px;
+    line-height: 16px;
+    margin-left: 7px;
+}
+
+.header-page-1-2-text{
+    display: flex;
+    flex-direction: column;
+    color: white;
+    margin-left: auto;
+    margin-top: 20px;
+}
+
+.header-page-1-2-definition{
+    font-family: RobotoBold  ;
+    font-size: 14px;
+    line-height: 16px;
+    margin-bottom: 10px;
+    margin-left: auto;
+}
+
+.header-page-1-2-heading{
+    font-family: RobotoBold  ;
+    font-size: 22px;
+    line-height: 24px;
+}
+
+.header-page-2{
+    margin-top: auto;
+    margin-bottom:20px;
+}
+
+.header-page-2-1{
+    font-size: 60px;
+    line-height: 60px;
+    font-family: RobotoBold  ;
+    color: white;
+    text-align: center;
+}
+
+.header-page-2-2{
+    margin-top: 40px;
+    display: flex;
+    flex-direction: row;
+}
+
+.header-page-2-2-list{
+    display: flex;
+    flex-direction: row;
+    margin-right: 360px;
+    margin-top: 15px;
+}
+
+.header-page-2-2-item{
+    margin: 0 5px;
+}
+
+.header-page-2-2-link{
+    display: block;
+    width: 21px;
+    height: 21px;
+    border-radius:50%;
+    border: 2px solid white;
+}
+
+.header-page-2-2-link:hover{
+    background-color: rgba(255,255,255,0.3);
+}
+
+.header-page-2-2-link:active{
+    background-color: rgba(255,255,255,1);
+
+}
+
+.header-page-2-2-link-current{
+    background-color: rgba(255,255,255,1);
+
+}
+
+.header-page-2-2-button{
+    position: relative;
+    right: 30px;
+    width: 280px;
+    height: 66px;
+    background-color: #ec573b;
+    border-radius:33px;
+    font-size: 32px;
+    line-height: 44px;
+    font-family: RobotoBold  ;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.header-page-2-2-button:hover{
+    background-color: #f48569;
+}
+
+.header-page-2-2-button:active{
+    background-color: #d84833;
+}

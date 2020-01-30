@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Roboto;
+    src: url("../../Fonts/roboto.woff");
+    src: url("../../Fonts/roboto.woff2");
+}
+
+@font-face {
+    font-family: RobotoBold;
+    src: url("../../Fonts/robotobold.woff");
+    src: url("../../Fonts/robotobold.woff2");
+}
+
+@font-face {
+    font-family: RobotoMedium;
+    src: url("../../Fonts/robotomedium.woff");
+    src: url("../../Fonts/robotomedium.woff");
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    background-color: #849d8f;
+    height: 2500px;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
