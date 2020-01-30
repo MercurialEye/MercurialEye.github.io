@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 12">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ccc;
+      }
+    </style>
+  </defs>
+  <path id="ARROW_DOWN" data-name="ARROW / DOWN" class="cls-1" d="M1521.138,4194.52l7.859,7.86,7.962-7.962h0a1.5,1.5,0,0,1,2.12,2.12h0l-9,9h0A1.494,1.494,0,0,1,1529,4206h-.007a1.494,1.494,0,0,1-1.079-.459h0l-9-9,0,0a1.5,1.5,0,1,1,2.22-2.015Z" transform="translate(-1518.5 -4193.999)"/>
+</svg>

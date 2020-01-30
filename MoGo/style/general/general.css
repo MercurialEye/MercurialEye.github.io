@@ -1,0 +1,66 @@
+@font-face {
+    font-family:f1;
+    src: url("../../fonts/KaushanScriptRegular.otf");
+}
+
+@font-face {
+    font-family:f2;
+    src: url("../../fonts/MontserratBold.ttf");
+}
+
+@font-face {
+    font-family:f3;
+    src: url("../../fonts/MontserratRegular.ttf");
+}
+
+@font-face {
+    font-family:f4;
+    src: url("../../fonts/RobotoLightItalic.ttf");
+}
+
+@font-face {
+    font-family:f5;
+    src: url("../../fonts/RobotoRegular.ttf");
+}
+
+.HHH{
+    position: absolute !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+    clip: rect(0 0 0 0) !important;
+    clip-path: inset(100%) !important;
+    width: 1px !important;
+    height: 1px !important;
+    margin: -1px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    text-indent: -9999px !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+body{
+
+}
+
+.main{
+
+}
