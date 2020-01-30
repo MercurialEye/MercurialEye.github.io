@@ -1,0 +1,60 @@
+@font-face {
+    font-family: Loto;
+    src: url("../../fonts/Lato-Regular.ttf");
+}
+
+body{
+    font-family: Loto;
+    font-style: normal;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+
+li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.header{
+    background: url('../../img/header/2.png') no-repeat , linear-gradient(180deg, rgba(53, 66, 103, 0.0001) 0%, #151824 95.04%);
+    min-width: 1440px;
+    background-size: 100%;
+}
+
+.main{
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer{
+    display: flex;
+    background-color: #0E1D28;
+}
+
+.HHH{
+    position: absolute !important;
+    visibility: hidden !important;
+    pointer-events: none !important;
+    clip: rect(0 0 0 0) !important;
+    clip-path: inset(100%) !important;
+    width: 1px !important;
+    height: 1px !important;
+    margin: -1px !important;
+    padding: 0 !important;
+    border: 0 !important;
+    text-indent: -9999px !important;
+    white-space: nowrap !important;
+    overflow: hidden !important;
+    -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+}

@@ -1,0 +1,125 @@
+.main-section-3{
+    width: 1260px;
+    padding:0 90px;
+    margin: 0 auto 150px;
+}
+
+.main-section-3-text{
+    font-weight: 500;
+    font-size: 35px;
+    line-height: 42px;
+    color: #102746;
+    margin-bottom: 60px;
+}
+
+.main-section-3-text-underline{
+    border-bottom: 2px solid #006DFE;
+    padding-bottom: 10px
+}
+
+.main-section-3-table{
+
+}
+
+.main-section-3-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.main-section-3-item{
+    width: 380px;
+    height: 640px;
+}
+
+.main-section-3-item-middle{
+    margin:0 60px;
+}
+
+.main-section-3-item-img{
+    width:380px;
+    height: 377px;
+    display: flex;
+    box-shadow: 0 2px 20px rgba(21, 24, 36, 0.46);
+}
+
+.main-section-3-item-img-1{background-image: url('../../img/main-3/1.png');}
+.main-section-3-item-img-2{background-image: url('../../img/main-3/2.png');}
+.main-section-3-item-img-3{background-image: url('../../img/main-3/3.png');}
+.main-section-3-item-img-4{background-image: url('../../img/main-3/4.png');}
+.main-section-3-item-img-5{background-image: url('../../img/main-3/5.png');}
+.main-section-3-item-img-6{background-image: url('../../img/main-3/6.png');}
+
+.main-section-3-item-img-container{
+    margin-top: auto;
+    display: flex;
+    flex-direction: row;
+    width: 336px;
+    padding: 16px 25px;
+    background-color: rgba(21, 24, 36, 0.6);
+}
+
+.main-section-3-item-img-heading{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #FFFFFF;
+    margin-right: auto;
+    margin-left: 15px;
+}
+
+.main-section-3-item-img-icon-container{
+    display: flex;
+    flex-direction: row;
+}
+
+.main-section-3-item-img-icon-text{
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #FFFFFF;
+}
+
+.main-section-3-item-img-icon-img{
+    margin-top: 5px;
+    margin-left: 5px;
+    margin-right: 15px;
+}
+
+.main-section-3-item-text{
+    margin-top: 45px;
+    margin-bottom: 30px;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 24px;
+    color: #102746;
+}
+
+.main-section-3-item-link{
+    width: 80px;
+    height: 20px;
+    padding: 10px 20px;
+    background-color: #006DFE;
+
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
