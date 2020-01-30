@@ -1,0 +1,539 @@
+main{
+    background-color: white ;
+}
+
+.main-pre{
+    display: flex;
+    flex-direction: column;
+    width: 960px;
+    margin: 0 auto;
+}
+
+.main-container-1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.main-container-1-item-tier-1{
+    width: 280px;
+    height: 98px;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    padding-top: 25px;
+    padding-left: 20px;
+    margin: 10px;
+}
+
+.main-container-1-item-tier-1-item-1{
+    background-color: #ffbf47;
+}
+
+.main-container-1-item-tier-1-item-2{
+    background-color: #3bbce3;
+}
+
+.main-container-1-item-tier-1-item-3{
+    background-color: #dc91d8;
+}
+
+.main-container-1-item-tier-1-item-4{
+    background-color: #8ed78f;
+}
+
+.main-container-1-item-tier-1-item-5{
+    background-color: #ffc047;
+}
+
+
+.main-container-1-item-tier-1-heading{
+    font-family: CuprumBold;
+    font-size: 24px;
+    line-height: 30px;
+
+}
+
+.main-container-1-item-tier-1-text{
+    font-family: CuprumRegular;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 20px;
+    background-color: rgba(0, 0, 0, 0.1);
+    width: 135px;
+    height: 40px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-container-1-item-tier-1-img{
+    position: absolute;
+    left: 210px;
+    top: 25px;
+}
+
+.main-container-1-item-tier-1-text:hover{
+    background-color:rgba(0,0,0,0.3);
+}
+
+.main-container-1-item-tier-1-text:active{
+    background-color:rgba(0,0,0,0.7);
+}
+
+.main-container-1-item-tier-1-container-list{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container-1-item-tier-2{
+    background-image: url('../../Img/bosch-top-img.png');
+    width: 620px;
+    height: 266px;
+    margin: 10px;
+    color: white;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container-1-item-tier-2-text-container{
+    background-color: rgba(0,0,0,0.3);
+    width: 600px;
+    height: 75px;
+    padding-top: 25px;
+    padding-left: 20px;
+}
+
+.main-container-1-item-tier-2-heading{
+    font-family: CuprumBold;
+    font-size: 36px;
+    line-height: 36px;
+}
+
+.main-container-1-item-tier-2-text{
+    font-family: CuprumRegular;
+    font-size: 18px;
+    line-height: 24px;
+
+}
+
+.main-container-1-item-tier-2-img-1{
+    position: absolute;
+    top:120px;
+    left:20px;
+}
+
+.main-container-1-item-tier-2-img-2{
+    position: absolute;
+    top:120px;
+    left:580px
+}
+
+.main-container-1-item-tier-2-button{
+    padding: 15px 50px;
+    font-family: CuprumRegular;
+    font-size: 14px;
+    line-height: 18px;
+    width: 100px;
+    background-color: #ee3643;
+    margin-top: auto;
+    margin-bottom: 25px;
+    margin-left: 25px;
+}
+
+.main-container-1-item-tier-2-button:hover{
+    background-color: #ca2c37;
+}
+
+.main-container-1-item-tier-2-button:active{
+    background-color: #ba2732;
+}
+
+.main-container-2{
+    font-family: CuprumRegular;
+    width:880px;
+    height: 60px;
+    background-color: #f9f5f0;
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 40px auto 20px;
+}
+
+.main-container-2-item-1{
+    font-size: 30px;
+    line-height: 30px;
+    color: #32425c;
+}
+
+.main-container-2-item-2{
+    margin-top:-10px;
+    font-size: 14px;
+    line-height: 18px;
+    margin-left: auto;
+    width: 250px;
+    height: 40px;
+    background-color: #ee3643;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.main-container-2-item-2:hover{
+    background-color: #ca2c37;
+}
+
+.main-container-2-item-2:active{
+    background-color: #ba2732;
+}
+
+.main-container-3{
+    font-family: PTSansBold;
+    display: flex;
+    flex-direction: row;
+
+}
+
+.main-container-3-container{
+    border: 1px solid #eaeaea;
+    width: 218px;
+    height: 316px;
+    margin:0 10px;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.main-container-3-img{
+    margin: 20px auto 0;
+}
+
+.main-container-3-heading{
+    font-size: 18px;
+    line-height: 20px;
+    margin: 30px 30px 20px;
+    text-align: center;
+}
+
+.main-container-3-text-tier-1{
+    font-size: 17px;
+    line-height: 18px;
+    color: #a9a9a9;
+    text-align: center;
+    text-decoration: line-through;
+}
+
+.main-container-3-text-tier-2{
+    font-size: 17px;
+    line-height: 18px;
+    background-image: url('../../Svg/red-button.svg');
+    height: 38px;
+    background-repeat: no-repeat;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-top: 20px;
+    margin-left: 40px;
+}
+
+.main-container-3-text-tier-2-text{
+    color: white;
+    margin-left: 35px;
+}
+
+.main-container-4{
+    font-family: CuprumRegular;
+    width:880px;
+    height: 60px;
+    background-color: #f9f5f0;
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+    margin: 20px auto 20px;
+}
+
+.main-container-4-item-1{
+    font-size: 30px;
+    line-height: 30px;
+    color: #32425c;
+}
+
+.main-container-4-item-2{
+    margin-top:-10px;
+    font-size: 14px;
+    line-height: 18px;
+    margin-left: auto;
+    width: 250px;
+    height: 40px;
+    background-color: #ee3643;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+}
+
+.main-container-4-item-2:hover{
+    background-color: #ca2c37;
+}
+
+.main-container-4-item-2:active{
+    background-color: #ba2732;
+}
+
+.main-container-5{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.main-container-5-container{
+    margin: 10px;
+    border: 1px solid #eaeaea;
+    width: 218px;
+    height: 143px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.main-container-5-img{
+    margin: 0 auto;
+}
+
+.main-container-6{
+    display: flex;
+    flex-direction: column;
+    background-color: #f5f8fa;
+    padding-right: 10px;
+    padding-left: 10px;
+}
+
+.main-container-6-item-1{
+    display: flex;
+    flex-direction: column;
+}
+
+.main-container-6-item-1-heading{
+    font-family: CuprumRegular;
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 70px;
+    margin-bottom: 40px;
+
+}
+
+.main-container-6-item-1-text{
+    font-family: PTSansRegular;
+    font-size: 13px;
+    line-height: 24px;
+    margin-bottom: 70px;
+}
+
+.main-container-6-item-2{
+    font-family: CuprumBold;
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 100px;
+
+}
+
+.main-container-6-item-2-list{
+    font-size: 21px;
+    line-height: 30px;
+    color: #32425c;
+}
+
+.main-container-6-item-2-list{
+    color:white;
+}
+
+.main-container-6-item-2-item{
+    background-color:#32425c;
+    width: 240px;
+    height: 60px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding-left: 20px;
+}
+
+.main-container-6-item-2-item:hover{
+    background-color:#293449;
+}
+
+.main-container-6-item-2-item:active{
+    background-color:#ffffff;
+}
+
+.main-container-6-item-2-splitter{
+
+}
+
+.main-container-6-item-2-item-middle{
+    margin-left: 80px;
+}
+
+.main-container-6-item-2-item-middle-heading{
+    font-family: CuprumRegular;
+    font-size: 36px;
+    line-height: 36px;
+    color: #32425c;
+    margin-bottom: 40px;
+    display: block;
+
+}
+
+.main-container-6-item-2-item-middle-text{
+    font-family: PTSansRegular;
+    font-size: 13px;
+    line-height: 24px;
+}
+
+.main-container-6-item-2-item-img{
+    margin-left: 120px;
+}
+
+.main-container-7{
+    padding-right: 10px;
+    padding-left: 10px;
+    height: 540px;
+    display: flex;
+    flex-direction: row;
+}
+
+.main-container-7-item-1{
+    margin-right: 110px;
+}
+
+.main-container-7-item-1-heading{
+    font-family: CuprumRegular;
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 80px;
+    margin-bottom: 35px;
+    display: block;
+
+}
+
+.main-container-7-item-1-text-1{
+    font-family: PTSansRegular;
+    font-size: 13px;
+    line-height: 24px;
+}
+
+.main-container-7-item-1-text-2{
+    font-family: PTSansRegular;
+    font-size: 13px;
+    line-height: 24px;
+    margin-top: 35px;
+    margin-bottom: 30px;
+}
+
+.main-container-7-item-1-list{
+    font-family: CuprumRegular;
+    font-size: 18px;
+    line-height: 20px;
+
+}
+
+.main-container-7-item-1-list-item{
+    display: flex;
+    flex-direction: row;
+    margin: 20px 0;
+}
+
+.main-container-7-item-1-list-red-stroke{
+    width: 25px;
+    height: 2px;
+    background-color: #ee3643;
+    margin-top: 9px;
+    margin-right: 10px;
+
+}
+
+.main-container-7-item-1-list-text{
+
+}
+
+.main-container-7-item-1-button{
+    font-family: CuprumRegular;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 40px;
+    margin-bottom: 85px;
+    background-color: #ee3643;
+    width: 220px;
+    height: 38px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+}
+
+.main-container-7-item-1-button:hover{
+    background-color: #ca2c37;
+}
+
+.main-container-7-item-1-button:active{
+    background-color: #ba2732;
+}
+
+
+.main-container-7-item-2{
+
+}
+
+.main-container-7-item-2-heading{
+    font-family: CuprumRegular;
+    font-size: 30px;
+    line-height: 30px;
+    margin-top: 80px;
+    margin-bottom: 30px;
+    display: block;
+}
+
+.main-container-7-item-2-text{
+    font-family: PTSansRegular;
+    font-size: 13px;
+    line-height: 24px;
+    margin-bottom: 30px;
+}
+
+.main-container-7-item-2-img{
+
+}
+
+.main-container-7-item-2-button{
+    font-family: PTSansRegular;
+    font-size: 14px;
+    line-height: 18px;
+    margin-top: 60px;
+    margin-bottom: 85px;
+    width: 300px;
+    height: 38px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    color: white;
+    background-color: #ee3643;
+}
+
+.main-container-7-item-2-button:hover{
+    background-color: #ca2c37;
+}
+
+.main-container-7-item-2-button:active{
+    background-color: #ba2732;
+}
