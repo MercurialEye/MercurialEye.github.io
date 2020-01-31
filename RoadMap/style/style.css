@@ -1,0 +1,113 @@
+@font-face {
+    font-family: "Segoe UI Regular";
+    src: url("../fonts/segoeui.ttf");
+}
+
+@font-face {
+    font-family: "Segoe UI Bold";
+    src: url("../fonts/segoeuib.ttf");
+}
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+li {
+    list-style: none;
+}
+
+
+body {
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    margin: 30px auto 40px auto;
+    font-size: 40px;
+}
+
+.container {
+    margin: 50px auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.main{
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.bold {
+    color: white;
+    font-size: 30px;
+    letter-spacing: 4px;
+    padding: 12px 40px ;
+    background-color: #1A13D9;
+    margin: 10px auto 10px;
+    cursor:pointer;
+    font-family: "Segoe UI Bold";
+}
+
+.list {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+}
+
+.item {
+    width: 200px;
+    padding:20px;
+    background-color: #EDEDED;
+    margin: 15px;
+    border: 2px solid black;
+    font-family: "Segoe UI";
+    text-align: center;
+}
+
+.item:after,.item:before{
+    content:  "";
+    width: 20px;
+    height: 20px;
+    left: 0;
+    top: 0;
+    border: 2px solid black;
+    display: block;
+    position: relative;
+    transition: 0.55s;
+    background-color:white;
+}
+
+.item:before{
+    top:-30px;
+}
+
+.item:after{
+    top: 30px;
+    left: 170px;
+}
+
+.item:hover:after{
+    transform: translateX(-150px);
+    background-color:orange;
+}
+
+.item:hover:before{
+     transform: translateX(150px);
+    background-color:orange;
+}
+
+.item:hover{
+
+}
+.bold:hover{
+    background-color: orangered;
+    transition: 0.35s;
+}
