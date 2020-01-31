@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 49.1 49.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: 0.22;
+      }
+    </style>
+  </defs>
+  <g id="arrows" transform="translate(-55 -279.9)">
+    <path id="Shape_2_copy" data-name="Shape 2 copy" class="cls-1" d="M79.55,329a24.55,24.55,0,1,1,17.36-7.191A24.389,24.389,0,0,1,79.55,329Zm-.06-45.831A21.09,21.09,0,1,0,100.58,304.26,21.114,21.114,0,0,0,79.49,283.17Z"/>
+    <path id="Shape_3_copy" data-name="Shape 3 copy" class="cls-1" d="M84.839,313.518V295.006l-13.97,9.255Z"/>
+  </g>
+</svg>

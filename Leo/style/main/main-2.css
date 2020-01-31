@@ -1,0 +1,14 @@
+.main-part-2{
+	display: flex;
+	flex-direction: column;
+	margin: 0 auto 100px;
+	width: 1000px;
+}
+
+.main-part-2-bold{
+	margin-bottom: 60px;
+}
+
+.main-part-2-text{
+
+}
