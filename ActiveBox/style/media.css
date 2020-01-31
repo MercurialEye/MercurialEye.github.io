@@ -1,0 +1,11 @@
+@media (max-width: 800px) {
+	.header-part-1-container{
+		flex-direction: column;
+		margin-left: auto;
+		border: 2px solid rgba(255,255,255,0.3);
+	}
+
+	.header-part-1-link {
+		margin: 15px;
+	}
+}

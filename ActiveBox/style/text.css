@@ -1,0 +1,174 @@
+@font-face {
+	font-family:OSB;
+	src: url("../fonts/OSB.ttf");
+}
+
+@font-face {
+	font-family:RR;
+	src: url("../fonts/RR.ttf");
+}
+
+@font-face {
+	font-family:RSB;
+	src: url("../fonts/RSB.ttf");
+}
+
+@font-face {
+	font-family:RB;
+	src: url("../fonts/RB.ttf");
+}
+
+@font-face {
+	font-family:CI;
+	src: url("../fonts/CI.otf");
+}
+
+@font-face {
+	font-family:RL;
+	src: url("../fonts/RL.ttf");
+}
+
+@font-face {
+	font-family: OS;
+	src: url("../fonts/OS.ttf");
+}
+
+.header-part-1-link{
+	font-family: RB;
+	font-size: 13px;
+	line-height: normal;
+	color: white;
+}
+
+.header-part-2-heading{
+	font-family: OSB;
+	font-size: 65px;
+	line-height: 71px;
+	color: white;
+}
+
+.header-part-2-text{
+	font-family:RR;
+	font-size: 22px;
+	line-height: 33px;
+	color: white;
+}
+
+.header-part-2-button{
+	font-family: RSB;
+	font-size: 13px;
+	line-height: 21px;
+	color: white;
+}
+
+.main-part-1-heading{
+	font-family: RB;
+	font-size: 14px;
+	line-height: normal;
+	color: black;
+}
+
+.main-part-1-text{
+	font-family: RR;
+	font-size: 14px;
+	line-height: 21px;
+	color: #6c7279;
+}
+
+.main-part-2-hidden-heading{
+	font-family: RB;
+	font-size: 14px;
+	line-height: normal;
+	color: white;
+}
+
+.main-part-2-hidden-text{
+	font-family: RR;
+	font-size: 14px;
+	line-height: normal;
+	color: white;
+}
+
+.main-part-3-heading{
+	font-family: RR;
+	font-size: 22px;
+	line-height: normal;
+	color: black;
+}
+
+.main-part-3-text-1{
+	font-family: RR;
+	font-size: 13px;
+	line-height: normal;
+	color: #e84545;
+}
+
+.main-part-3-text-2{
+	font-family: RR;
+	font-size: 14px;
+	line-height: 21px;
+	color: #6c7279;
+}
+
+.main-part-4-heading{
+	font-family: CI;
+	font-size: 36px;
+	line-height: 42px;
+	color: white;
+}
+
+.main-part-4-text{
+	font-family: RB;
+	font-size: 13px;
+	line-height: 21px;
+	color: white;
+}
+
+.main-part-5-heading{
+	font-family: RL;
+	font-size: 28px;
+	line-height: 21px;
+	color: black;
+}
+
+.main-part-5-text{
+	font-family: RB;
+	font-size: 13px;
+	line-height: 21px;
+	color: black;
+}
+
+.main-part-5-link{
+	font-family:RSB ;
+	font-size: 13px;
+	line-height: 21px;
+	color: white;
+}
+
+.footer-heading{
+	font-family: RB;
+	font-size: 14px;
+	line-height: normal;
+	color: white;
+}
+
+.footer-text-1{
+	font-family: RR;
+	font-size:14px;
+	line-height: 23px;
+	color: rgba(255,255,255,0.5);
+}
+
+.footer-text-2{
+	font-family: RR;
+	font-size: 14px;
+	line-height: 23px;
+	color: #808080;
+}
+
+.footer-spec{
+	font-family: RR;
+	font-size: 14px;
+	line-height: 23px;
+	color: white;
+}
