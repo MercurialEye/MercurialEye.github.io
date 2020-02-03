@@ -1,0 +1,38 @@
+.footer{
+	display: flex;
+	flex-direction: row;
+	height: 230px;
+	justify-content: space-around;
+	background-image: url('../../img/footer/1.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	align-items: center;
+}
+
+.footer-list{
+	display: flex;
+	flex-direction: row;
+}
+
+.footer-item{
+	margin:0 20px;
+}
+
+.footer-link{
+
+}
+
+.footer-text{
+
+}
+
+.footer-btn{
+	width: 256px;
+	height: 40px;
+	border-radius: 20px;
+	background-color: #ffffff;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

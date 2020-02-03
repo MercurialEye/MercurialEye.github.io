@@ -1,0 +1,28 @@
+.MP3{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
+.MP3-cont{
+	width: 648px;
+	height: 411px;
+}
+
+.MP3-cont-1{
+	background-image: url('../../img/main-3/1.png');
+}
+
+.MP3-cont-2{
+	background-image: url('../../img/main-3/2.png');
+}
+
+.MP3-text{
+	background-color: rgba(255,255,255,0.3);
+	padding-top: 20px;
+	padding-left: 40px;
+	margin-top: 218px;
+	margin-right: 228px;
+	width: 380px;
+	height: 130px;
+}

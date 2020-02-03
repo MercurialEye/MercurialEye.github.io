@@ -1,0 +1,24 @@
+.MP2{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	margin:90px 0;
+}
+
+.MP2-cont{
+	display: flex;
+	flex-direction: column;
+	background-color: #E8E7FA;
+	width: 290px;
+	height: 170px;
+	align-items: center;
+	justify-content: center;
+}
+
+.MP2-bold{
+
+}
+
+.MP2-text{
+
+}

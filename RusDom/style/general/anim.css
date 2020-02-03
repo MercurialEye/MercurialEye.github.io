@@ -1,0 +1,66 @@
+.nav-text-1:hover{
+
+}
+
+.nav-text-2:hover{
+	transition: 0.2s;
+	color: lightblue;
+}
+
+.nav-text-3:hover{
+
+}
+
+.MP1-btn:hover{
+	transition: 0.4s;
+	background-color: black;
+	color: white;
+
+}
+
+.MP2-cont:hover{
+
+}
+
+.MP3-cont:hover{
+	transition: 0.4s;
+	transform: scale(1.2);
+
+}
+
+.MP4-cont:hover{
+	transition: 0.4s;
+	background-color: #0910DB;
+}
+
+.MP6-item:hover{
+	transition: 0.3s;
+	transform: scale(1.4);
+
+}
+
+.MP6-btn:hover{
+
+}
+
+.MP6-img:hover{
+
+}
+
+.MP7-btn:hover{
+	transition: 0.4s;
+	background-color: black;
+	color: white;
+
+}
+
+.footer-link:hover{
+	transition: 0.2s;
+	color: lightblue;
+}
+
+.footer-btn:hover{
+	transition: 0.4s;
+	background-color: black;
+	color: white;
+}

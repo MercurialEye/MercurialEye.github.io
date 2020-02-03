@@ -1,0 +1,44 @@
+.MP1{
+	height: 700px;
+	background-image: url('../../img/main-1/1.png');
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+	padding-top:150px;
+}
+
+.MP1-cont{
+	margin-right: auto;
+	display: flex;
+	flex-direction: column;
+	padding: 90px 140px;
+	height: 320px;
+	width: 580px;
+	background-color: rgba(255,255,255,0.5);
+}
+
+.MP1-bold{
+	display: block;
+	margin-bottom: 14px;
+}
+
+.MP1-text{
+	margin-bottom: 40px;
+}
+
+.MP1-cont-btn{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-between;
+}
+
+.MP1-btn{
+	width: 264px;
+	height: 64px;
+	border-radius: 32px;
+	background-color: white;
+	box-shadow: 0 5px 10px black;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

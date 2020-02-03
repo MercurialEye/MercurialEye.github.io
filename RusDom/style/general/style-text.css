@@ -1,0 +1,144 @@
+.nav-text-1{
+	font-family: SUI;
+	font-size: 28px;
+	font-weight: bold;
+	line-height: 37px;
+	color: #3B3737;
+}
+
+.nav-text-2{
+	font-family: SUI;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 32px;
+	color:black;
+}
+
+.nav-text-3{
+	font-family: SUI;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 32px;
+	color:black;
+}
+
+.MP1-bold{
+	font-family: SUI;
+	font-size: 48px;
+	font-weight: bold;
+	line-height: 65px;
+	color:black;
+}
+
+.MP1-text{
+	font-family: SUI;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 32px;
+	color:black;
+}
+
+.MP1-btn{
+	font-family: SUI;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 21px;
+	color: #3B3737;
+}
+
+.MP2-bold{
+	font-family: SUI;
+	font-size: 49px;
+	font-weight: bold;
+	line-height: 66px;
+	color: #707070;
+}
+
+.MP2-text{
+	font-family: SUI;
+	font-size: 24px;
+	font-weight: normal;
+	line-height: 32px;
+	color: #707070;
+}
+
+.MP3-text{
+	font-family: SUI;
+	font-size: 21px;
+	font-weight: bold;
+	line-height: 28px;
+	color: #FFFFFF;
+}
+
+.MP5{
+	font-family: SUI;
+	font-size: 45px;
+	font-weight: 600;
+	line-height: 24px;
+	color: #707070;
+}
+
+.MP6-cont{
+	color: #fff;
+	font-family: SUI;
+	font-weight: bold;
+	line-height: 11px;
+	font-size: 8px;
+}
+
+.MP6-bold {
+	font-family: SUI;
+	font-size: 19px;
+	font-weight: bold;
+	line-height: 21px;
+	margin-bottom: 7px;
+}
+
+.MP6-text {
+	font-family: SUI;
+	font-size: 19px;
+	font-weight: normal;
+	line-height: 21px;
+	margin-bottom: 18px;
+}
+
+.MP6-btn {
+	color: #FFFFFF;
+	font-family: SUI;
+	font-size: 15px;
+	font-weight: bold;
+	line-height: 20px;
+}
+
+.MP7-btn{
+	font-family: SUI;
+	font-size: 24px;
+	font-weight: 600;
+	line-height:24px;
+	color:black;
+}
+
+.footer-item{
+	font-family: SUI;
+	font-size: 24px;
+	font-weight: 600;
+	line-height:32px;
+	color:black;
+}
+
+.footer-text{
+	font-family: SUI;
+	font-size: 24px;
+	font-weight: 600;
+	line-height:32px;
+	color:black;
+}
+
+.footer-btn {
+	font-family: SUI;
+	font-size: 16px;
+	font-weight: normal;
+	line-height: 21px;
+	color:black;
+}
+
